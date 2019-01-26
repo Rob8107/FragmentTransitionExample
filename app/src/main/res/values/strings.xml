@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FragmentAnimationTest</string>
+    <string name="logoTransitionName">logoTransitionName</string>
+</resources>
